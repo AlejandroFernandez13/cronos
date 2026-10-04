@@ -1,0 +1,9 @@
+{
+  "name": "cronos-musical",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CRONOS - juego musical online por línea temporal",
+  "main": "server.js",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node": ">=20"}
+}
